@@ -1,5 +1,5 @@
 # web design
-Simple responcive web designe
+Simple responsive web designe
 
 ## Demo
 https://hadebk.github.io/ibra/
