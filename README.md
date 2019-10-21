@@ -1,5 +1,5 @@
 # web design
-Simple responsive web designe
+Simple responsive agency web design.
 
 ## Demo
 https://hadebk.github.io/ibra/
